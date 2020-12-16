@@ -13,9 +13,9 @@
 - Dr. Richard Allen White III
 - Email: rwhit101@uncc.edu
 
-![image](image.jpg?style=centerme)
-
-
+<p align="center"> 
+<img src="image.jpg">
+</p>
 
 ### Introduction to Course
 Introduction of appropriate project design, implementation, and management skills needed to function as a small team solving typical problems in Bioinformatics. Students are given realistic problems and are required to develop specifications, deliverables, timelines, and costs. Under faculty supervision, the group assigns roles, responsibilities, and deadlines in order to complete the project and then execute the project. At the end of the course, the group produces a written document with deliverables and makes a formal presentation of the project.
