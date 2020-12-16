@@ -13,7 +13,7 @@
 - Dr. Richard Allen White III
 - Email: rwhit101@uncc.edu
 
-![image](image.jpg)
+![image](image.jpg?style=centerme)
 
 
 
