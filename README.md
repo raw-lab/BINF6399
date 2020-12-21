@@ -1,4 +1,4 @@
-# BINF6399 Princples of Team Science 
+# BINF6399 Principles of Team Science 
 
 - Venue: 	University of North Carolina at Charlotte (UNCC)
 - Date: 	Spring 2021
