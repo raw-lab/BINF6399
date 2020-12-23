@@ -11,7 +11,7 @@
 
 #### Instructors:	
 - Dr. Richard Allen White III
-- Email: rwhit101@uncc.edu
+- Email: [mailto](mailto:rwhit101@uncc.edu)
 
 <p align="center"> 
 <img src="image.jpg">
