@@ -18,7 +18,10 @@
 </p>
 
 ### Course Description
-Introduction of appropriate project design, implementation, and management skills needed to function as a small team solving typical problems in Bioinformatics and Genomics. Students are given realistic problems and are required to develop specifications, deliverables, timelines, and costs. Under faculty supervision, the group assigns roles, responsibilities, and deadlines in order to complete the project and then execute the project. At the end of the course, the group produces a written document with deliverables and makes a formal presentation of the project.
+Introduction of appropriate project design, implementation, and management skills needed to function as a small team solving typical problems in Bioinformatics and Genomics. Students are given realistic problems and are required to develop specifications, deliverables, timelines, and costs. Under faculty supervision, the group assigns roles, responsibilities, and deadlines to complete the project and then execute the project. At the end of the course, the group produces a written document with deliverables and makes a formal presentation.
+
+### Bioinfomatic internship requirement waiver
+Students who take BINF 6399 will not need to take BINF 6400 internship to satisfy degree requirements. 
 
 #### Contact 
 The point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw-lab).<br />
