@@ -3,8 +3,8 @@
 - Venue: 	University of North Carolina at Charlotte (UNCC)
 - Date: 	Spring 2021
 - Credits: 3 credit class
-- Office hours: by appointment
 - Meeting times: T/TH 4:00-5:15
+- Office hours: T/TH 5:15-6:15
 - Where/Location: Main/Uptown Center Campus - Bioinformatics building 217
 - Style of instruction: Hybrid: F2F & Online (Sync) Instructional Method 
 - Department: Bioinfomatics and Genomics (BiG)
