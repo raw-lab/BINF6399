@@ -3,7 +3,7 @@
 ## Install for linux
 
 ### Ubuntu 16.04/18.04
-```sudo apt update```
+```sudo apt update```<br/>
 ```sudo apt install git```
 
 ## Check version of git
@@ -23,8 +23,8 @@
 ## Add and Commit -> new file
 
 ### Add
-- ```git add <filename>```
-- ```git add *```
+```git add <filename>```<br/>
+```git add *```
 
 ### Commit
 ```git commit -m "Commit message"```
@@ -92,7 +92,7 @@
 ```git checkout -- <filename>```
 
 ### Drop all commits, fetch the latest history then point to master branch
-```git fetch origin```
+```git fetch origin``` <br/>
 ```git reset --hard origin/master```
 
 ## Useful hints
