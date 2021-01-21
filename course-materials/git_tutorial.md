@@ -3,8 +3,8 @@
 ## Install for linux
 
 ### Ubuntu 16.04/18.04
-- ```sudo apt update```
-- ```sudo apt install git```
+```sudo apt update```
+```sudo apt install git```
 
 ## Check version of git
 ```git --version```
@@ -92,8 +92,8 @@
 ```git checkout -- <filename>```
 
 ### Drop all commits, fetch the latest history then point to master branch
-- ```git fetch origin```
-- ```git reset --hard origin/master```
+```git fetch origin```
+```git reset --hard origin/master```
 
 ## Useful hints
 
