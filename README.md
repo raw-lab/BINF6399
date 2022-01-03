@@ -8,6 +8,7 @@
 - Where/Location: Main/Uptown Center Campus - Bioinformatics building 217
 - Style of instruction: Hybrid: F2F & Online (Sync) Instructional Method 
 - Department: Bioinfomatics and Genomics (BiG)
+-  January 10<sup>th to May 12<sup>th, 2022 
 
 #### Instructors:	
 - Dr. Richard Allen White III
