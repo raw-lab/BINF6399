@@ -1,7 +1,7 @@
 # BINF6399 - Principles of Team Science 
 
 - Venue: 	University of North Carolina at Charlotte (UNCC)
-- Date: 	Spring 2021
+- Date: 	Spring 2022
 - Credits: 3 credit class
 - Meeting times: T/TH 4:00-5:15
 - Office hours: T/TH 5:15-6:15
